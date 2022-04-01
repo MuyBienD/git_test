@@ -3,3 +3,4 @@
 3.git add . 使用git管理文件
 4.git commit -m "v1" 生成版本v1
 5.git log 查看版本生成日志
+6.test
