@@ -13,3 +13,20 @@
 13.git remote add 别名 远程仓库地址   起别名
 14.git push -u 别名 分支  推送代码
 15.git clone 远程仓库地址  拉取代码（默认别名）
+16.在公司开发
+	git checkout dev  切换到dev分支进行开发
+	git merge master  把master分支合并到dev(仅一次）
+	git add.
+	git commit -m "xx"
+	git push origin dev
+17.在家中继续写代码
+	切换到dev分支进行开发
+	git checkout dev
+	拉代码
+	git pull origin dev
+	git add .
+	git commit -m "xxx"
+	git push origin dev
+开发完毕，上线
+	git
+
