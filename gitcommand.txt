@@ -3,4 +3,10 @@
 3.git add . 使用git管理文件
 4.git commit -m "v1" 生成版本v1
 5.git log 查看版本生成日志~~
-6.
+6.git reflog
+7.git reset --hard 版本号  回滚
+8.git branch 查看分支
+9.git branch 分支名
+10. git checkout 分支名
+11.git merge 要合并的分支
+12.git branch -d 分支名称
