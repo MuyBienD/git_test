@@ -28,5 +28,12 @@
 	git commit -m "xxx"
 	git push origin dev
 开发完毕，上线
-	git
+	把dev合并到master，进行上线
+	git checkout master
+	git merge dev
+	git push origin master
+	把dev也推送到远端
+	git checkout dev
+	git merge master
+	git push origin dev
 
